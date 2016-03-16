@@ -1,10 +1,10 @@
 {
     "name": "babel-plugin-transform-remove-strict-mode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "genify <genify@gmail.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/genify/babel-plugin-transform-es2015-remove-strict-mode.git"
+        "url": "https://github.com/genify/babel-plugin-transform-remove-strict-mode.git"
     },
     "license": "MIT",
     "main": "lib/index.js",
