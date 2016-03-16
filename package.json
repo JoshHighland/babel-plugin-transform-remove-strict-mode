@@ -1,6 +1,6 @@
 {
     "name": "babel-plugin-transform-es2015-remove-strict-mode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "genify <genify@gmail.com>",
     "repository": {
         "type": "git",
